@@ -1,4 +1,4 @@
-[![MasterHead](https://yt3.ggpht.com/zQPDIzr5mwlsKq3Pd2HMFw4ceRmr1SyacmYHQivySlJMscooejb0NFl1JLHbUIGdz47rnRfH=w1920-fcrop64=1,00000000ffffffff-k-c0xffffffff-no-nd-rj)]
+![MasterHead](https://yt3.ggpht.com/zQPDIzr5mwlsKq3Pd2HMFw4ceRmr1SyacmYHQivySlJMscooejb0NFl1JLHbUIGdz47rnRfH=w1920-fcrop64=1,00000000ffffffff-k-c0xffffffff-no-nd-rj)
 <h1 align="center">Hi 👋, I'm Prateek Singh Panwar</h1>
 <h3 align="center">A passionate Python developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
