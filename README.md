@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Data Structures and Algorithm**
 
-- 🌱 I’m currently learning **DSA ,Flutter , Machine learning**
+- 🌱 I’m currently learning **DSA, Machine learning**
 
 - 👯 I’m looking to collaborate on **Smart Chat bot**
 
