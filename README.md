@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/prateek1316" target="blank"><img src="https://img.shields.io/twitter/follow/prateek1316?logo=twitter&style=for-the-badge" alt="prateek1316" /></a> </p>
 
-- 🔭 I’m currently working on **Data Structures and Algorithm**
+- 🔭 I’m currently working on **Intelligent Unmanned Ground Vehicle (UGV)**
 
-- 🌱 I’m currently learning **DSA, Machine learning**
+- 🌱 I’m currently learning **DSA**
 
 - 👯 I’m looking to collaborate on **Smart Chat bot**
 
-- 📫 How to reach me **parteekp2002@gmail.com**
+- 📫 How to reach me **prateekpanwar2002@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1U1cZL_UeAZeg0hvRf072LJk33Je1uOD7/view?usp=sharing](https://drive.google.com/file/d/1U1cZL_UeAZeg0hvRf072LJk33Je1uOD7/view?usp=sharing)
+- 📄 Know about my experiences [[https://drive.google.com/file/d/1U1cZL_UeAZeg0hvRf072LJk33Je1uOD7/view?usp=sharing](https://drive.google.com/file/d/1FBEos-2oeVSIJfaePKIv3R9074Ss4ApP/view?usp=sharing)]([https://drive.google.com/file/d/1U1cZL_UeAZeg0hvRf072LJk33Je1uOD7/view?usp=sharing](https://drive.google.com/file/d/1FBEos-2oeVSIJfaePKIv3R9074Ss4ApP/view?usp=sharing))
 
 - ⚡ Fun fact **I want to experience Zombies😂**
 
