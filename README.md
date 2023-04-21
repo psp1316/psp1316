@@ -1,4 +1,4 @@
-![MasterHead]([https://yt3.ggpht.com/8L-X9FoKINgEbpE-tfJaNjvvbwViEutm9EfTJ5TZTx8JKxrTyzsLT1tK_G0LQIhiCV5yHiYwXG8=s900-c-k-c0x00ffffff-no-rj])
+![MasterHead](https://lh3.googleusercontent.com/pw/AJFCJaXTQkbWKJHH_KefTUql7H5UzyMEBikIAB0AFhjNp_kGhahCYej-bOGIZbx6Xmsf6Gc-49IESjZKluQT0YRRwmHF16UhZA6LhNnzC9bEMvtBDzZw8arr5K8NM9-nsKPLt6LSDHjZBfyb_omRvS6-qbY=w1790-h1007-s-no?authuser=0)
 <h1 align="center">Hi 👋, I'm Prateek Singh Panwar</h1>
 <h3 align="center">A passionate Python developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -9,15 +9,15 @@
 
 - 🔭 I’m currently working on **Intelligent Unmanned Ground Vehicle (UGV)**
 
-- 🌱 I’m currently learning **DSA**
-
-- 👯 I’m looking to collaborate on **Smart Chat bot**
+- 🌱 I’m currently learning **DSA, Node.js** to enhance my development skills.
 
 - 📫 How to reach me **prateekpanwar2002@gmail.com**
 
-- 📄 Know about my experiences [[https://drive.google.com/file/d/1U1cZL_UeAZeg0hvRf072LJk33Je1uOD7/view?usp=sharing](https://drive.google.com/file/d/1FBEos-2oeVSIJfaePKIv3R9074Ss4ApP/view?usp=sharing)]([https://drive.google.com/file/d/1U1cZL_UeAZeg0hvRf072LJk33Je1uOD7/view?usp=sharing](https://drive.google.com/file/d/1FBEos-2oeVSIJfaePKIv3R9074Ss4ApP/view?usp=sharing))
+- 📄 Know about my experiences https://drive.google.com/file/d/1U1cZL_UeAZeg0hvRf072LJk33Je1uOD7/view?usp=sharing
 
 - ⚡ Fun fact **I want to experience Zombies😂**
+
+👉 Also, feel free to check out my youtube channel where I share my thoughts on technology: (https://www.youtube.com/@Chargic)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
