@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Intelligent Unmanned Ground Vehicle (UGV)**
 
-- 🌱 I’m currently learning **DSA, Node.js** to enhance my development skills.
+- 🌱 I’m currently learning **DSA, ReactJs** to enhance my development skills.
 
 - 📫 How to reach me **prateekpanwar2002@gmail.com**
 
