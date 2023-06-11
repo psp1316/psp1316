@@ -1,7 +1,7 @@
 ![MasterHead](https://lh3.googleusercontent.com/pw/AJFCJaXTQkbWKJHH_KefTUql7H5UzyMEBikIAB0AFhjNp_kGhahCYej-bOGIZbx6Xmsf6Gc-49IESjZKluQT0YRRwmHF16UhZA6LhNnzC9bEMvtBDzZw8arr5K8NM9-nsKPLt6LSDHjZBfyb_omRvS6-qbY=w1790-h1007-s-no?authuser=0)
 <h1 align="center">Hi 👋, I'm Prateek Singh Panwar</h1>
 <h3 align="center">A passionate Python developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fstickers%2Fdgitechart-transparent-it-itechart-jRf5fsn8G6YaogAWxn&psig=AOvVaw1M39cJ9bZ_khQdPAa3tMvJ&ust=1686551958526000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMC_7OrNuv8CFQAAAAAdAAAAABAD">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=psp1316&label=Profile%20views&color=0e75b6&style=flat" alt="psp1316" /> </p>
 
