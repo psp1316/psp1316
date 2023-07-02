@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **prateekpanwar2002@gmail.com**
 
-- 📄 Know about my experiences https://drive.google.com/file/d/1U1cZL_UeAZeg0hvRf072LJk33Je1uOD7/view?usp=sharing
+- 📄 Know about my experiences https://drive.google.com/file/d/1FBEos-2oeVSIJfaePKIv3R9074Ss4ApP/view?usp=sharing
 
 - ⚡ Fun fact **I want to experience Zombies😂**
 
