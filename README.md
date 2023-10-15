@@ -35,8 +35,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=psp1316&show_icons=true&locale=en&layout=compact" alt="psp1316" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=psp1316&show_icons=true&locale=en" alt="psp1316" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=psp1316&" alt="psp1316" /></p>
 
 
